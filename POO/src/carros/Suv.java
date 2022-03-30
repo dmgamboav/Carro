@@ -10,7 +10,7 @@ public class Suv extends CarroBase {
 
 	@Override
 	public void imprimirCategoria() {
-      System.out.println("Soy SUV");
+      System.out.println("Soy SUV 2");
       imprimirMotor();
 	}
 
